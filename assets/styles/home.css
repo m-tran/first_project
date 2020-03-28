@@ -1,0 +1,12 @@
+.home {
+    height: 90vh; 
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-image {
+    border-radius: 10%;
+}
+
